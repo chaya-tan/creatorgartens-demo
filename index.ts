@@ -1,4 +1,3 @@
-import { Option, Some, isSome } from "fp-ts/lib/Option";
 import { Minion, Boss } from "./interface";
 import { some } from "fp-ts/option";
 
